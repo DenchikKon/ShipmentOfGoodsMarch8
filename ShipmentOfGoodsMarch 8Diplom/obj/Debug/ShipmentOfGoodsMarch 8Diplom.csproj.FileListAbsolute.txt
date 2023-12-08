@@ -1,0 +1,61 @@
+D:\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\bin\Debug\ShipmentOfGoods.mdf
+D:\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\bin\Debug\ShipmentOfGoods_log.ldf
+D:\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\bin\Debug\ShipmentOfGoodsMarch 8Diplom.exe.config
+D:\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\bin\Debug\ShipmentOfGoodsMarch 8Diplom.exe
+D:\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\bin\Debug\ShipmentOfGoodsMarch 8Diplom.pdb
+D:\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch 8Diplom.csproj.AssemblyReference.cache
+D:\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch 8Diplom.csproj.SuggestedBindingRedirects.cache
+D:\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch_8Diplom.Properties.Resources.resources
+D:\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch 8Diplom.csproj.GenerateResource.cache
+D:\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch 8Diplom.csproj.CoreCompileInputs.cache
+D:\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch 8Diplom.exe
+D:\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch 8Diplom.pdb
+D:\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch_8Diplom.Registration.resources
+D:\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch_8Diplom.MainForm.resources
+D:\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch_8Diplom.AddShop.resources
+D:\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch_8Diplom.addProduct.resources
+D:\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch_8Diplom.Order.resources
+D:\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch_8Diplom.AcceptedOrder.resources
+D:\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch 8Diplom.csproj.ResolveComReference.cache
+D:\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch_8Diplom.ChangeStoreOfProduct.resources
+D:\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\bin\Debug\ТТН1.docx
+D:\studyColledge\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\bin\Debug\ТТН1.docx
+D:\studyColledge\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\bin\Debug\ShipmentOfGoods.mdf
+D:\studyColledge\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\bin\Debug\ShipmentOfGoods_log.ldf
+D:\studyColledge\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\bin\Debug\ShipmentOfGoodsMarch 8Diplom.exe.config
+D:\studyColledge\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\bin\Debug\ShipmentOfGoodsMarch 8Diplom.exe
+D:\studyColledge\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\bin\Debug\ShipmentOfGoodsMarch 8Diplom.pdb
+D:\studyColledge\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch 8Diplom.csproj.AssemblyReference.cache
+D:\studyColledge\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch 8Diplom.csproj.ResolveComReference.cache
+D:\studyColledge\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch_8Diplom.AcceptedOrder.resources
+D:\studyColledge\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch_8Diplom.addProduct.resources
+D:\studyColledge\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch_8Diplom.AddShop.resources
+D:\studyColledge\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch_8Diplom.ChangeStoreOfProduct.resources
+D:\studyColledge\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch_8Diplom.MainForm.resources
+D:\studyColledge\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch_8Diplom.Order.resources
+D:\studyColledge\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch_8Diplom.Registration.resources
+D:\studyColledge\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch_8Diplom.Properties.Resources.resources
+D:\studyColledge\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch 8Diplom.csproj.GenerateResource.cache
+D:\studyColledge\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch 8Diplom.csproj.CoreCompileInputs.cache
+D:\studyColledge\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch 8Diplom.exe
+D:\studyColledge\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch 8Diplom.pdb
+D:\partfolio\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\bin\Debug\ТТН1.docx
+D:\partfolio\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\bin\Debug\ShipmentOfGoods.mdf
+D:\partfolio\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\bin\Debug\ShipmentOfGoods_log.ldf
+D:\partfolio\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\bin\Debug\ShipmentOfGoodsMarch 8Diplom.exe.config
+D:\partfolio\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\bin\Debug\ShipmentOfGoodsMarch 8Diplom.exe
+D:\partfolio\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\bin\Debug\ShipmentOfGoodsMarch 8Diplom.pdb
+D:\partfolio\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch 8Diplom.csproj.AssemblyReference.cache
+D:\partfolio\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch 8Diplom.csproj.ResolveComReference.cache
+D:\partfolio\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch_8Diplom.AcceptedOrder.resources
+D:\partfolio\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch_8Diplom.addProduct.resources
+D:\partfolio\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch_8Diplom.AddShop.resources
+D:\partfolio\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch_8Diplom.ChangeStoreOfProduct.resources
+D:\partfolio\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch_8Diplom.MainForm.resources
+D:\partfolio\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch_8Diplom.Order.resources
+D:\partfolio\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch_8Diplom.Registration.resources
+D:\partfolio\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch_8Diplom.Properties.Resources.resources
+D:\partfolio\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch 8Diplom.csproj.GenerateResource.cache
+D:\partfolio\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch 8Diplom.csproj.CoreCompileInputs.cache
+D:\partfolio\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch 8Diplom.exe
+D:\partfolio\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\obj\Debug\ShipmentOfGoodsMarch 8Diplom.pdb
