@@ -6,6 +6,7 @@ using System.Data.Common;
 using System.Data.SqlClient;
 using System.Drawing;
 using System.Globalization;
+using System.IO;
 using System.Linq;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
@@ -434,7 +435,8 @@ namespace ShipmentOfGoodsMarch_8Diplom
                 {
                     Word.Application wordApp = new Word.Application();
                     //вот тут надо подставить свой путь !!!
-                    var doc = wordApp.Documents.Open(@"D:\Diplom\ShipmentOfGoodsMarch 8Diplom\ShipmentOfGoodsMarch 8Diplom\ТТН1.docx");
+                    string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "ТТН1.docx");
+                    var doc = wordApp.Documents.Open(path);
                     //замена данных
                     doc.Content.Find.Execute(FindText: "{unp1}", ReplaceWith: dataGridOrder.CurrentRow.Cells[4].Value.ToString().Trim());
                     doc.Content.Find.Execute(FindText: "{unp1}", ReplaceWith: dataGridOrder.CurrentRow.Cells[4].Value.ToString().Trim());
